@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 29 12:43:33 CST 2018
+https\://repo.itextsupport.com/releases/.error=
+https\://repo.itextsupport.com/releases/.lastUpdated=1517200992360
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.itextpdf\:font-asian\:jar\:sources\:7.0.4 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1517201013379

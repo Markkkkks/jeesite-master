@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 29 12:58:30 CST 2018
+servlet-api-2.5.jar>=
+servlet-api-2.5-sources.jar>central=
+servlet-api-2.5.jar>central=
+servlet-api-2.5.pom>central=

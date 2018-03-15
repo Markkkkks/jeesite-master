@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 30 15:37:14 CST 2018
+https\://repo.itextsupport.com/releases/.error=
+https\://repo.itextsupport.com/releases/.lastUpdated=1517201364705
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1517201385734
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.avalon.framework\:avalon-framework-api\:jar\:sources\:4.3.1 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1517297834231

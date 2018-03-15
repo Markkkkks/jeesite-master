@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 29 12:58:30 CST 2018
+jedis-2.5.1-sources.jar>central=
+jedis-2.5.1.jar>central=
+jedis-2.5.1.pom>central=
+jedis-2.5.1.jar>=

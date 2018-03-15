@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 30 15:37:15 CST 2018
+https\://repo.itextsupport.com/releases/.error=
+https\://repo.itextsupport.com/releases/.lastUpdated=1517200970484
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1517200991508
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:sources\:1.7.7 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1517297835640

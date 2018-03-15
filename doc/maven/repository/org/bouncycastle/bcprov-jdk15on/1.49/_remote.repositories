@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 29 12:58:30 CST 2018
+bcprov-jdk15on-1.49.jar>=
+bcprov-jdk15on-1.49.jar>central=
+bcprov-jdk15on-1.49.pom>central=

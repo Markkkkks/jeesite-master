@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 29 14:05:31 CST 2018
+https\://repo.itextsupport.com/releases/.error=Could not transfer artifact org.apache.commons\:commons-imaging\:pom\:1.0-20170517.221134-118 from/to itext (https\://repo.itextsupport.com/releases)\: Failed to transfer file\: https\://repo.itextsupport.com/releases/org/apache/commons/commons-imaging/1.0-SNAPSHOT/commons-imaging-1.0-20170517.221134-118.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+@default-https\://repo.itextsupport.com/releases/.lastUpdated=1517205910672
+default-https\://repo.itextsupport.com/releases/.lastUpdated=1517200078141
+https\://repository.apache.org/content/repositories/snapshots/.error=Could not transfer artifact org.apache.commons\:commons-imaging\:pom\:1.0-20170517.221134-118 from/to apache.snapshots (https\://repository.apache.org/content/repositories/snapshots/)\: Connection to https\://repository.apache.org refused
+https\://repo.itextsupport.com/snapshot/.lastUpdated=1517200079535
+@default-https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1517205931720
+https\://repo.itextsupport.com/snapshot/.error=

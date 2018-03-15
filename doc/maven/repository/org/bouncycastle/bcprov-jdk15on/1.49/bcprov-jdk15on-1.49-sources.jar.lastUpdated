@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 29 12:45:13 CST 2018
+https\://repo.itextsupport.com/releases/.error=
+https\://repo.itextsupport.com/releases/.lastUpdated=1517201092637
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.bouncycastle\:bcprov-jdk15on\:jar\:sources\:1.49 from/to central (http\://repo.maven.apache.org/maven2)\: Connection to http\://repo.maven.apache.org refused
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1517201113658
